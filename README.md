@@ -44,7 +44,7 @@ The study concludes that SME phishing susceptibility is more of a behavioural an
 
 # Behavioural Security Study Infrastructure
 
-This repository also documents the infrastructure setup used for a controlled behavioural security study. The environment was built to support a web application, email delivery, DNS configuration, and a hosted lab server for campaign-style testing in a closed setting. Full deployment steps, sensitive configuration values, and end-to-end operational instructions are **intentionally withheld** from this documentation.
+This repository also documents the infrastructure setup used for a controlled behavioural security study. The environment was built to support a web application, email delivery, DNS configuration, and a hosted lab server for campaign-style testing in a closed setting. Full configuration details, API credentials, SMTP credentials, and operational reproduction steps are  **intentionally withheld** from this document to ensure responsible disclosure and prevent unethical reproduction.
 
 ##The project used:
 
