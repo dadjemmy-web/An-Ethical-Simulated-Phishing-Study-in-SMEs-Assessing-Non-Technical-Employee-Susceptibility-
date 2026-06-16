@@ -13,7 +13,7 @@ An ethical, consent-based simulated phishing study conducted with 17 non-technic
 This project presents a consent-based, ethically governed simulated phishing
 study conducted in May 2026 with 17 SME-employed participants aged 26 to 34.
 The study was designed to investigate the behavioural and cognitive factors
-that cause individuals to fall for phishing emails, and to implement an
+that cause non-technical employees to fall for phishing emails, and to implement an
 immediate, targeted awareness training response for those who clicked.
 
 A simulated phishing email was deployed via GoPhish hosted on a DigitalOcean
@@ -22,13 +22,13 @@ directed to an ethical disclosure page, an anonymous behavioural survey, and a
 custom five-module phishing awareness training programme hosted on Google
 Classroom.
 
-**12 of 17 participants clicked the simulation link — a 70.6% click rate,
+**12 of 17 consented participants clicked the simulation link — a 70.6% click rate,
 2.9 times the KnowBe4 2025 SME industry baseline of 24.6%.** Analysis of
 the behavioural survey revealed that curiosity was the dominant click
 motivator (54.5%), followed by genuine belief in the email's legitimacy
 (45.5%). 
 
-Time-to-click analysis showed that 75% of participants clicked more than 30 minutes after delivery, confirming that susceptibility was driven by the quality of the social engineering rather than momentary inattention.
+Time-to-click analysis showed that 75% of concented participants clicked more than 30 minutes after delivery, confirming that susceptibility was driven by the quality of the social engineering rather than momentary inattention.
 
 The most significant finding was the Overconfidence Paradox: 54.5% of
 respondents rated themselves as highly confident in their ability to detect
@@ -118,7 +118,6 @@ The environment was structured so each service had a separate responsibility:
 - Brevo handled email delivery.
 - GoPhish handled study delivery and tracking.
 
-This separation made the setup easier to manage and troubleshoot, while keeping the infrastructure reliable for the project work.
 
 ## Simulation Walkthrough
 
