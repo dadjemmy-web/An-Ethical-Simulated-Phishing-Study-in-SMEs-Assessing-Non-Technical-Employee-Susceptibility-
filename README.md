@@ -1,4 +1,4 @@
-# An Ethical Simulated Phishing Study in SMEs Assessing Non-Technical Employee Susceptibility and Targeted Awareness
+# An Ethical Simulated Phishing Study in SMEs Assessing Non-Technical Employee Susceptibility and Delivering Targeted Awareness
 
 **Author:** Jesufemi Dada
 **Date:** May 2026
