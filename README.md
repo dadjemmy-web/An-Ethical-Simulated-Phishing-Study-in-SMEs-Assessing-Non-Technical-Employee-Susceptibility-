@@ -6,10 +6,7 @@
 
 ## Overview
 
-An ethical, consent-based simulated phishing study conducted with 17
-SME-employed participants. The study investigated behavioural and cognitive
-factors contributing to phishing susceptibility, and implemented a custom
-just-in-time awareness training programme for participants who clicked.
+An ethical, consent-based simulated phishing study conducted with 17 non-technical SME-employed participants. The study investigated the behavioural and cognitive factors contributing to phishing susceptibility among non-technical employees, and implemented a custom just-in-time awareness training programme for participants who clicked.
 
 ## Executive Summary
 
