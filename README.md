@@ -42,7 +42,7 @@ employees, not just those who self-identify as uncertain.
 
 The study concludes that SME phishing susceptibility is more of a behavioural and cognitive challenge, not just a technical one. Effective mitigation requires recurring simulation, just-in-time embedded training, and confidence calibration exercises designed to close the metacognitive gap that leaves the most self-assured employees the most exposed.
 
-# Behavioural Security Study Infrastructure
+# Study Infrastructure
 
 This repository also documents the infrastructure setup used for a controlled behavioural security study. The environment was built to support a web application, email delivery, DNS configuration, and a hosted lab server for campaign-style testing in a closed setting. Full configuration details, API credentials, SMTP credentials, and operational reproduction steps are  **intentionally withheld** from this document to ensure responsible disclosure and prevent unethical reproduction.
 
