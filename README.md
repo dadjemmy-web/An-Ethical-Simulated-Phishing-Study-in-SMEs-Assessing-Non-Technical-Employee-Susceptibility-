@@ -1,4 +1,4 @@
-# An Ethical Simulated Phishing Study: Assessing Behavioral Susceptibility Why Humans click in an SME Context and the Implementation of a Targeted phishing Awareness
+# An Ethical Simulated Phishing Study in SMEs Assessing Non-Technical Employee Susceptibility and Targeted Awareness
 
 **Author:** Jesufemi Dada
 **Date:** May 2026
